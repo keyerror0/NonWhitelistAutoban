@@ -1,2 +1,2 @@
 # NonWhitelistAutoban
-Non Whitelist Autoban
+Ban any player, including the IP, if the player is not whitelisted.
